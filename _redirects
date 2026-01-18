@@ -74,7 +74,7 @@ https://go.soundsdesigned.com/stackblitzs         https://stackblitz.com/github/
 # Nuxt.dev
 https://go.soundsdesigned.com/codetheorist-github         https://github.com/codetheorist 302!
 https://go.soundsdesigned.com/profile-readme-example      https://raw.githubusercontent.com/codetheorist/codetheorist/main/README.md 302!
-https://go.soundsdesigned.com/contributor/*               https://github.com/:splat 302!
+https://go.soundsdesigned.com/contributors/*              https://github.com/:splat 302!
 https://go.soundsdesigned.com/github                      https://github.com/Sounds-Designed 302!
 https://go.soundsdesigned.com/ui-github                   https://github.com/Sounds-Designed/sound-ui 302!
 https://go.soundsdesigned.com/ui-repo                     https://github.com/Sounds-Designed/sound-ui 302!
