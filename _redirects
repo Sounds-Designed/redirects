@@ -72,6 +72,7 @@ https://go.soundsdesigned.com/stackblitzs         https://stackblitz.com/github/
 # https://go.nuxtjs.dev/bridge-capi               https://v3.nuxtjs.org/getting-started/bridge-composition-api
 
 # Nuxt.dev
+https://go.soundsdesigned.com/contributor/*       https://github.com/:splat 302!
 https://go.soundsdesigned.com/github              https://github.com/Sounds-Designed 302!
 https://go.soundsdesigned.com/ui-github           https://github.com/Sounds-Designed/sound-ui 302!
 https://go.soundsdesigned.com/ui-repo             https://github.com/Sounds-Designed/sound-ui 302!
